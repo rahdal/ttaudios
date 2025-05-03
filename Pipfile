@@ -4,9 +4,15 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-requests = "*"
+requests = "==2.31.0"
 bs4 = "*"
 typing-extensions = "*"
+tiktokapi = "*"
+playwright = "*"
+beautifulsoup4 = "==4.12.2"
+pydub = "==0.25.1"
+shazamio = "==0.3.0"
+aiohttp = "==3.9.3"
 
 [dev-packages]
 

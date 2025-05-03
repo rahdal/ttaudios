@@ -1,0 +1,5 @@
+aiohttp==3.9.3
+beautifulsoup4==4.12.2
+pydub==0.25.1
+shazamio==0.3.0
+requests==2.31.0 
